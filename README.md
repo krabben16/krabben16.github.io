@@ -77,7 +77,7 @@
 - [The best of JavaScript, HTML and CSS](https://bestofjs.org)
 - [はてなブックマーク](https://b.hatena.ne.jp/hotentry/it)
 
-## &#x270d; アウトプット
+## &#x1f4dd; アウトプット
 
 - [技術ブログ](https://www.yurikago-blog.com)
 - [Qiita](https://qiita.com/h-kawaguchi)

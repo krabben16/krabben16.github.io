@@ -53,6 +53,5 @@
 
 ## `アウトプット`
 
-[技術ブログ](https://www.yurikago-blog.com)
-
-[Qiita](https://qiita.com/h-kawaguchi)
+- [技術ブログ](https://www.yurikago-blog.com)
+- [Qiita](https://qiita.com/h-kawaguchi)

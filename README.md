@@ -7,13 +7,15 @@
 ### 開発言語
 
 - PHP
-- C#
+- JavaScript
+- TypeScript
 
 ### フレームワーク
 
 - Zend Framework
 - Laravel
 - Vue.js
+- Nuxt.js
 
 ### データベース
 

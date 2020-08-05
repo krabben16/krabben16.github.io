@@ -4,47 +4,73 @@
 
 ## &#x2728; スキルセット
 
+- ★★★ = 得意
+- ★★☆ = そこそこ
+- ★☆☆ = 勉強中
+
 ### 開発言語
 
-- PHP
-- JavaScript
-- TypeScript
+|対象|レベル|
+|---|---|
+|PHP|★★☆|
+|JavaScript|★★☆|
+|TypeScript|★☆☆|
 
 ### フレームワーク
 
-- Zend Framework
-- Laravel
-- Vue.js
-- Nuxt.js
+|対象|レベル|
+|---|---|
+|Zend Framework|★★★|
+|Laravel|★☆☆|
+|Vue.js|★★☆|
+|Nuxt.js|★★☆|
+
+### テンプレートエンジン
+
+|対象|レベル|
+|---|---|
+|Smarty|★★★|
+|Blade|★☆☆|
 
 ### データベース
 
-- MySQL
+|対象|レベル|
+|---|---|
+|MySQL|★★☆|
 
 ### 構成管理
 
-- Ansible
+|対象|レベル|
+|---|---|
+|Ansible|★☆☆|
 
 ### 仮想化技術
 
-- Vagrant
-- Docker
-- Virtual Box
+|対象|レベル|
+|---|---|
+|Vagrant|★★☆|
+|Docker|★★☆|
+|Virtual Box|★★☆|
 
 ### AWS
 
-- EC2
-- RDS
-- S3
-- CloudFront
+|対象|レベル|
+|---|---|
+|EC2|★★☆|
+|S3|★★☆|
+|CloudFront|★★☆|
 
 ### データ分析
 
-- Google Analytics
+|対象|レベル|
+|---|---|
+|Google Analytics|★★☆|
 
 ### その他
 
-- SEO対策
+|対象|レベル|
+|---|---|
+|SEO対策|★★☆|
 
 ## &#x1f50d; 情報収集
 

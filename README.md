@@ -2,6 +2,8 @@
 
 大阪府在住のフルスタックエンジニア3年目です。
 
+---
+
 ## スキルセット
 
 ### 開発言語
@@ -45,6 +47,15 @@
 ### その他
 
 - SEO対策
+
+---
+
+## 情報収集
+
+- [The best of JavaScript, HTML and CSS](https://bestofjs.org)
+- [はてなブックマーク](https://b.hatena.ne.jp/hotentry/it)
+
+---
 
 ## リンク
 

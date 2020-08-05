@@ -1,8 +1,8 @@
-## `プロフィール`
+## 【プロフィール】
 
 大阪府在住のフルスタックエンジニア3年目です。
 
-## `スキルセット`
+## 【スキルセット】
 
 ### 開発言語
 
@@ -46,12 +46,12 @@
 
 - SEO対策
 
-## `情報収集`
+## 【情報収集】
 
 - [The best of JavaScript, HTML and CSS](https://bestofjs.org)
 - [はてなブックマーク](https://b.hatena.ne.jp/hotentry/it)
 
-## `アウトプット`
+## 【アウトプット】
 
 - [技術ブログ](https://www.yurikago-blog.com)
 - [Qiita](https://qiita.com/h-kawaguchi)

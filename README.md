@@ -49,16 +49,16 @@
 |対象|レベル|
 |---|---|
 |Vagrant|★★☆|
-|Docker|★★☆|
+|Docker|★☆☆|
 |Virtual Box|★★☆|
 
 ### AWS
 
 |対象|レベル|
 |---|---|
-|EC2|★★☆|
-|S3|★★☆|
-|CloudFront|★★☆|
+|EC2|★☆☆|
+|S3|★☆☆|
+|CloudFront|★☆☆|
 
 ### データ分析
 
